@@ -1,2 +1,17 @@
-Problem statemnent 46: Get fit faster with a high tech tracker: analyze human activity and gps data for improved result.
-Neo fitness is a high tech app for this new high tech world including AI as a personal fitness trainer to help people attain their fitness goals. It keeps track of all the exercises the user is doing and also keep track of their diet. Giving the users regular feedback and imporvement plans makes the website interactive as well.
+## Gym Login Page
+This project is a simple gym login page created using HTML and CSS. It provides a user interface for logging into a gym's system.
+
+## Features
+
+- **Login Form**: Allows users to input their username and password.
+- **Styling**: Uses CSS for styling elements, making the login page visually appealing.
+- **Responsive Design**: Ensures that the login page is usable across various devices and screen sizes.
+
+## Usage
+
+To use the gym login page, simply open the `index.html` file in a web browser.
+
+```bash
+$ git clone https://github.com/mimansha345/gym_login_page.git
+$ cd gym_login_page
+$ open index.html
